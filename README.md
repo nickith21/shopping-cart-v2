@@ -1,1 +1,1 @@
-# shopping-cart-v2
+# Shopping Cart with Restock
